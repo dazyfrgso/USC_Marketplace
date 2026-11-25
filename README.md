@@ -6,7 +6,7 @@ A campus marketplace where USC students can buy and sell items, message sellers,
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/7bfbfc71-81c2-4326-9183-db8a94b48617
+https://github.com/user-attachments/assets/abf50863-510a-4d03-a3a0-7c982574c9a9
 
 ## ✨ Features
 
