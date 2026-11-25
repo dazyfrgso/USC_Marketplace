@@ -4,15 +4,9 @@ A campus marketplace where USC students can buy and sell items, message sellers,
 
 > Built by a 7-person team for USC CSCI 201 (Principles of Software Development), Spring 2026. This is my fork; the original repo is [AnWilliam/USC_Marketplace](https://github.com/AnWilliam/USC_Marketplace).
 
-<!-- Add 2–4 screenshots here: browse page, item detail, messaging, wishlist -->
-<p align="center">
-  <img src="docs/browse.png" alt="Browsing listings" width="48%" />
-  <img src="docs/messages.png" alt="Buyer–seller messaging" width="48%" />
-</p>
-
 ## 🎥 Demo
 
-<!-- Drag the demo video here, the same way as the trip planner -->
+https://github.com/user-attachments/assets/7bfbfc71-81c2-4326-9183-db8a94b48617
 
 ## ✨ Features
 
